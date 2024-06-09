@@ -1,0 +1,29 @@
+• Topics
+o Variables, Numbers, Strings
+o Lists, Dictionaries, Sets, Tuples
+o If condition, for loop
+o Functions, Lambda Functions
+o Modules (pip install)
+o Read, Write files
+o Exception handling
+o Classes, Objects
+• Learning Resources
+
+o Track A (Free)
+▪ Python Tutorials (Codebasics) on YouTube (first 16 videos) 
+- https://bit.ly/3X6CCC7
+▪ Corey’s Python Tutorials: https://bit.ly/3uqUgaZ
+▪ Codebasics python HINDI tutorials 
+- https://bit.ly/3vmXrgwcodebasics.io
+
+o Track B (Affordable Fees)
+▪ Python course: https://codebasics.io/courses/python-for-beginner-andintermediate-learners
+• LinkedIn - Core Skill
+☐ Create a professional-looking LinkedIn profile.
+▪ Have a clear profile picture and banner image.
+▪ Add tags such as: Open to work etc.
+ ☐ Use this LinkedIn Checklist to create a profile: Click here.
+• Assignment
+☐ Track A: Finish all these exercises: https://bit.ly/3k1mof5
+☐ Track B: Finish exercises and quizzes for relevant topics
+☐ Create a professional-looking LinkedIn profile.
